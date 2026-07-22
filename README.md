@@ -18,10 +18,39 @@
 
 I build backend systems and AI-powered tools that solve real problems.
 
-- 🔭 Currently building — *add your current project here*
-- 🌱 Currently learning — *add what you're digging into*
+- 🔭 Currently building — **[MenuIQ](https://github.com/Sujal-Raj-ux/MenuIQ)**, an AI menu-engineering platform for restaurants
+- 🌱 Currently learning — agentic LLM workflows, retrieval grounding, and on-device ML
 - 💬 Ask me about — backend architecture, APIs, ML pipelines, cloud infra
-- ⚡ Fun fact — *add something here*
+- 📫 Reach me at — **mr.sujalraj@gmail.com**
+
+---
+
+## 🚀 Featured Projects
+
+### 🍽️ [MenuIQ](https://github.com/Sujal-Raj-ux/MenuIQ)
+AI-powered restaurant menu optimization platform. Analyzes transaction and ordering data to surface menu-engineering insights, cross-selling opportunities, and actionable recommendations — with an agentic chat assistant that answers questions grounded in pre-computed analytics.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20·%20Llama%203.3%2070B-F55036?style=flat-square&logo=meta&logoColor=white)
+
+### 🏏 [IPL Player Outlook](https://github.com/Sujal-Raj-ux/Cricket-player-stats-prediction)
+Web dashboard for IPL batting form, innings history, and a next-inning runs outlook — backed by a FastAPI service reading from CSV or Postgres via Supabase.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### ⚖️ [NJCourts Mobile App](https://github.com/Sujal-Raj-ux/NJCourts)
+Android prototype for the NJ Courts project. Gives officers a professional interface to select tickets, validate evidence using on-device ML, and manage local records.
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![On-device ML](https://img.shields.io/badge/On--device%20ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ---
 
@@ -40,6 +69,7 @@ I build backend systems and AI-powered tools that solve real problems.
 **Backend & Frameworks**
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -56,6 +86,7 @@ I build backend systems and AI-powered tools that solve real problems.
 
 **AI / ML & Data**
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -68,6 +99,7 @@ I build backend systems and AI-powered tools that solve real problems.
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -91,16 +123,6 @@ I build backend systems and AI-powered tools that solve real problems.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**Project One**](https://github.com/Sujal-Raj-ux) | One line on the problem it solves | Java · Spring · Postgres |
-| [**Project Two**](https://github.com/Sujal-Raj-ux) | One line on the problem it solves | Python · PyTorch · FastAPI |
-| [**Project Three**](https://github.com/Sujal-Raj-ux) | One line on the problem it solves | TypeScript · React · AWS |
 
 ---
 
