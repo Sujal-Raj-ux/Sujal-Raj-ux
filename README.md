@@ -18,8 +18,7 @@
 
 I build backend systems and AI-powered tools that solve real problems.
 
-- 🔭 Currently building — **[MenuIQ](https://github.com/Sujal-Raj-ux/MenuIQ)**, an AI menu-engineering platform for restaurants
-- 🌱 Currently learning — agentic LLM workflows, retrieval grounding, and on-device ML
+- 🌱 Currently learning — agentic LLM workflows, MCP, and on-device ML
 - 💬 Ask me about — backend architecture, APIs, ML pipelines, cloud infra
 - 📫 Reach me at — **mr.sujalraj@gmail.com**
 
